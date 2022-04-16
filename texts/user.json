@@ -1,0 +1,8 @@
+{
+  "blocked": "User was blocked",
+  "not_found": "Not found target User",
+  "already_exists": "User already exists",
+  "bad_passwd": "Invalid password",
+  "not_found_or_blocked": "User not found or blocked",
+  "not_found_or_bad_passwd": "User not found or Invalid password"
+}

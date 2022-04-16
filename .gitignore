@@ -1,0 +1,11 @@
+GTAGS
+GRTAGS
+GPATH
+.aproject/
+
+venv/
+*.pyc
+_pycache_/
+
+data/
+static/
