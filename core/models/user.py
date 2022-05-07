@@ -16,7 +16,6 @@ from sqlalchemy import (
 class MyUserModel(BaseDBModel):
 
     __tablename__ = "my_users"
-    __table_args__ = {"extend_existing": True}
 
     id = Column(Integer, primary_key=True, autoincrement=True, nullable=False)
 
